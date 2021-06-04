@@ -1,2 +1,0 @@
-# IDM5
-ProgettoAcademy
